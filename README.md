@@ -3,8 +3,7 @@
 ```
 sudo systemctl stop story
 
-```
-cd $HOME
+```cd $HOME
 wget https://story-geth-binaries.s3.us-west-1.amazonaws.com/story-public/story-linux-amd64-0.10.1-57567e5.tar.gz
 tar -xzvf story-linux-amd64-0.10.1-57567e5.tar.gz
 
